@@ -1,0 +1,15 @@
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/bin/Debug/net6.0/TestProject
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/bin/Debug/net6.0/TestProject.deps.json
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/bin/Debug/net6.0/TestProject.runtimeconfig.json
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/bin/Debug/net6.0/TestProject.dll
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/bin/Debug/net6.0/ref/TestProject.dll
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/bin/Debug/net6.0/TestProject.pdb
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.csproj.AssemblyReference.cache
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfoInputs.cache
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfo.cs
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.dll
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/ref/TestProject.dll
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.pdb
+/Users/josephgutierrez/Desktop/SoftwareDev/TestProject/obj/Debug/net6.0/TestProject.genruntimeconfig.cache
